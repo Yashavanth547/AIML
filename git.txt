@@ -1,0 +1,19 @@
+# Save this code as create_github_example.py and run it with Python
+
+file_content = """
+# Simple GitHub Markdown Example
+
+## Repository Title
+My First GitHub Project
+
+## Description
+This project is a simple example to demonstrate how to create and structure a repository on GitHub.
+
+## Files
+- README.md
+- main.py
+- requirements.txt
+
+## main.py
+```python
+print("Hello, GitHub!")
